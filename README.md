@@ -11,12 +11,12 @@ This is Flappy Robin! A defintelty not a rip of the iconic Flappy Bird game of t
 - Added some Juicy Shaking when the Bird Collides into a Pipe
 
 -----------------------------------------------------
-Sound Effects are provided by https://freesound.org:
-Bouncy_popper @Ironcross32 - https://freesound.org/people/ironcross32/sounds/584111/
-Fast Collision Reverb @Qubodup - https://freesound.org/people/qubodup/sounds/332056/
-Bonus Point @Joao_Janz - https://freesound.org/people/Joao_Janz/sounds/482652/
-Points Tick2 @Baggonotes - https://freesound.org/people/Joao_Janz/sounds/482652/
-
+Sound Effects are provided by https://freesound.org: <br />
+Bouncy_popper @Ironcross32 - https://freesound.org/people/ironcross32/sounds/584111/ <br />
+Fast Collision Reverb @Qubodup - https://freesound.org/people/qubodup/sounds/332056/ <br />
+Bonus Point @Joao_Janz - https://freesound.org/people/Joao_Janz/sounds/482652/ <br />
+Points Tick2 @Baggonotes - https://freesound.org/people/Joao_Janz/sounds/482652/ <br />
+<br />
 Music - https://www.youtube.com/watch?v=a9WPkHd4fvs&list=PLfP6i5T0-DkK-NIlQfOLacP8i5TVZvaqE&index=47
 
 
