@@ -3,7 +3,7 @@ using UnityEngine;
 public class PipeSpawnerController : MonoBehaviour
 {
     public GameObject pipe;
-    public float spawnRate = 5f;
+    public float spawnRate = 6f;
     private float timer = 0f;
     public float heightOffset = 5f;
 
